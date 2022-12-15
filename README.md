@@ -1,2 +1,2 @@
 # project-clock
-a simple clock using html, css and javascript
+An attractive looking clock using html, css and javascript
